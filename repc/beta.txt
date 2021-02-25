@@ -1,0 +1,2 @@
+This is beta.
+This is a child file too.
