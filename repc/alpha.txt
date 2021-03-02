@@ -1,2 +1,0 @@
-This is alpha.
-This is child file.
